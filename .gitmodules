@@ -1,3 +1,6 @@
 [submodule "first_module"]
 	path = first_module
 	url = https://github.com/JorQuintana/minimodule.git
+[submodule "second_module"]
+	path = second_module
+	url = https://github.com/JorQuintana/supermodule.git
